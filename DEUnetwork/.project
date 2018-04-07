@@ -3,6 +3,7 @@
 	<name>DEUnetwork</name>
 	<comment></comment>
 	<projects>
+		<project>inet2</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
